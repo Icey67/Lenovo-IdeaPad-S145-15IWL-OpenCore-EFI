@@ -23,6 +23,7 @@ It appears fine when using only one screen
 
 # IMPORTANT!
 If you plan to log into Apple ID with this EFI
+
 PLEASE make sure you change the SMBIOS to something else, because we'll both be in trouble if you don't.
 
 # Screenshot
